@@ -27,7 +27,7 @@ Interact with Furhat:
 1. Start Furhat virtual environment and remote API.
 2. Run bartender.py: python bartender.py
 
-##Author
+## Author
 1. Mahira Jalisha
 2. Ramiza Maliha
 3. Adona Tesfaye Shinkur
