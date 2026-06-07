@@ -26,3 +26,9 @@ Facial emotion recognition: Model training
 Interact with Furhat:
 1. Start Furhat virtual environment and remote API.
 2. Run bartender.py: python bartender.py
+
+##Author
+1. Mahira Jalisha
+2. Ramiza Maliha
+3. Adona Tesfaye Shinkur
+4. Feruz Redi
